@@ -1,3 +1,3 @@
-#Simon Says : Color Detector
-##Using the Digilent PMOD Color Sensor
+# Simon Says : Color Detector
+## Using the Digilent PMOD Color Sensor
 
